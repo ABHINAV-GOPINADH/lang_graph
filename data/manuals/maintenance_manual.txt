@@ -1,0 +1,83 @@
+Predictive Maintenance Instruction Manual
+Version 1.0 – September 2025
+
+---
+
+1. Generator – Bearing Replacement Procedure
+Parts Required:
+- Bearing (Part #GEN-78-XYZ)
+- Seal Kit (Part #GEN-SK-45)
+- High-temperature lubricant (Lubricant #LUB-101)
+
+Safety Procedures:
+1. Perform full Lock-Out/Tag-Out (LOTO) before starting.
+2. Wear protective gloves and safety goggles.
+3. Ensure generator load is at 0 kW before disassembly.
+
+Steps:
+1. Disconnect generator from the main power bus.
+2. Remove housing cover using a 12mm offset wrench.
+3. Replace worn bearing with Part #GEN-78-XYZ.
+4. Replace seals using Kit #GEN-SK-45.
+5. Apply lubricant #LUB-101 before reassembly.
+6. Reconnect, run idle test for 5 minutes, check vibration < 1.5 mm/s.
+
+---
+
+2. Generator – Fuel Injector Fault
+Symptoms:
+- High exhaust gas temperature
+- Unstable load
+- Black smoke
+
+Action:
+- Clean injector with approved solvent (Part #CLEAN-22).
+- If wear is detected, replace with Fuel Injector (Part #GEN-FI-202).
+
+Safety:
+- Allow generator to cool to < 60°C before working.
+
+---
+
+3. Compressor – Main Bearing Replacement
+Parts Required:
+- Bearing (Part #COMP-55-XYZ)
+- Seal Kit (Part #COMP-SK-12)
+- Synthetic lubricant (Oil #OIL-502)
+
+Safety Procedures:
+1. Ensure compressor is depressurized (< 2 bar).
+2. Follow LOTO procedure (Document #COMP-LOTO-99).
+3. Use protective earplugs for noise.
+
+Steps:
+1. Shut down compressor and isolate from air supply.
+2. Remove housing bolts (special 14mm offset wrench recommended).
+3. Replace bearing and seals.
+4. Refill with Oil #OIL-502.
+5. Reconnect, run test cycle, check discharge pressure stability.
+
+---
+
+4. Compressor – Overload Issue
+Symptoms:
+- High motor current (>30 A)
+- Frequent tripping
+
+Possible Causes:
+- Bearing seizure
+- Clogged filter
+- Misalignment
+
+Action:
+- Inspect motor bearings.
+- Replace clogged filters with Filter Cartridge (Part #COMP-FLT-7A).
+- Realign drive shaft.
+
+---
+
+5. General Safety Notes
+- Always log maintenance activity in the CMMS (IBM Maximo).
+- Keep a record of parts replaced with batch numbers.
+- Report recurring issues to the maintenance supervisor.
+- Never bypass LOTO safety under any circumstance.
